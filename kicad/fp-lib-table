@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name map2)(type KiCad)(uri /home/anool/projects-git/MAP2/kicad/map2.pretty)(options "")(descr ""))
+  (lib (name map3_fp)(type KiCad)(uri /home/anool/projects-git/MAP3/kicad/map3_fp.pretty)(options "")(descr ""))
+  (lib (name map4_fp)(type KiCad)(uri "$(KIPRJMOD)/map4_fp.pretty")(options "")(descr ""))
+)
