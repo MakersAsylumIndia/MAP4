@@ -17,7 +17,7 @@
   (pad 1 smd rect (at -0.95 0) (size 1 1.45) (layers F.Cu F.Paste F.Mask))
   (pad 2 thru_hole circle (at 4.064 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -4.064 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
-  (model r_0805.wrl
+  (model ${KIPRJMOD}/3d_modules/resistor_7_62mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

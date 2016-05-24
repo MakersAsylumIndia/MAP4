@@ -1,7 +1,7 @@
 (module LED-5MM (layer F.Cu) (tedit 56D533CC)
   (descr "LED 5mm - Lead pitch 100mil (2,54mm)")
   (tags "LED led 5mm 5MM 100mil 2,54mm")
-  (fp_text reference D1 (at 0 2.286 90) (layer F.SilkS)
+  (fp_text reference D1 (at 0 2.286 -270) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value "LED Red" (at 1.524 -1.651) (layer F.SilkS)
@@ -13,7 +13,7 @@
   (fp_arc (start 0.254 0) (end 2.5 0) (angle 76.07169708) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -1.27 0) (size 1.778 1.778) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.27 0) (size 1.778 1.778) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model LED_5mm_red.wrl
+  (model ${KIPRJMOD}/3d_modules/LED_5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
