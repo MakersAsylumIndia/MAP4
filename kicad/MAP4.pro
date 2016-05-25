@@ -1,4 +1,4 @@
-update=Tue May 24 18:29:13 2016
+update=Wed May 25 17:46:20 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -30,5 +30,15 @@ LibDir=
 LibName1=map4
 LibName2=conn
 LibName3=logo
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=pdf/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1
