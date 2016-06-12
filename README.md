@@ -19,7 +19,7 @@ a really easy, learn to solder Maker's Asylum Badge
 2. Resistor Color Code
 3. Use of Multimeter to check LED, Resistor and Battery
 
-DISCUSSION FORUM : TBD
+DISCUSSION FORUM : http://discuss.makersasylum.com/t/map4-makers-asylum-learn-to-solder-badge/123
 
 ![MAP4](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_01.png)
 
