@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source /home/anool/projects-git/MAP4/kicad/MAP4.sch)
-    (date "Wed May 25 15:33:54 2016")
-    (tool "Eeschema 4.0.2+e4-6225~38~ubuntu15.10.1-stable")
+    (source /home/samata/projects-git/MAP4/kicad/MAP4.sch)
+    (date "Sun Jun 12 21:07:57 2016")
+    (tool "Eeschema 4.1.0-alpha+201606040946+6883~45~ubuntu15.10.1-product")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title MAP4)
@@ -35,7 +35,7 @@
       (tstamp 570F5B9E))
     (comp (ref BT1)
       (value BATT_HOLDER)
-      (footprint map4_fp:cr2032_01)
+      (footprint map4_fp:cr2032_02)
       (fields
         (field (name Field4) "HOLDER BATTERY COIN 20MM DIA THM")
         (field (name Field5) "Coin Cell, Retainer")
@@ -131,7 +131,7 @@
         (pin (num 1) (name +) (type passive))
         (pin (num 2) (name -) (type passive))))
     (libpart (lib conn) (part CONN_01X01)
-      (description "Connector 01x01")
+      (description "Connector, single row, 01x01")
       (footprints
         (fp Pin_Header_Straight_1X01)
         (fp Pin_Header_Angled_1X01)
@@ -181,12 +181,12 @@
         (pin (num 1) (name ~) (type passive))
         (pin (num 2) (name ~) (type passive)))))
   (libraries
-    (library (logical map4)
-      (uri /home/anool/projects-git/MAP4/kicad/map4.lib))
+    (library (logical conn)
+      (uri /usr/share/kicad/library/conn.lib))
     (library (logical logo)
       (uri /usr/share/kicad/library/logo.lib))
-    (library (logical conn)
-      (uri /usr/share/kicad/library/conn.lib)))
+    (library (logical map4)
+      (uri /home/samata/projects-git/MAP4/kicad/map4.lib)))
   (nets
     (net (code 1) (name "Net-(P1-Pad1)")
       (node (ref P1) (pin 1)))
