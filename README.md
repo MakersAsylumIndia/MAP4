@@ -21,11 +21,12 @@ a really easy, learn to solder Maker's Asylum Badge
 
 DISCUSSION FORUM : http://discuss.makersasylum.com/t/map4-makers-asylum-learn-to-solder-badge/123
 
+rev1 renders
 ![MAP4](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_01.png)
 
 ![MAP4](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_02.png)
 
-
+rev2 renders
 ![MAP4 rev2](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_03.png)
 
 ![MAP4 rev2](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_04.png)
