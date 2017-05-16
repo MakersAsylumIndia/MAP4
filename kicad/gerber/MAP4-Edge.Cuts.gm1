@@ -1,10 +1,10 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,4.1.0-alpha+201607271302+6994~46~ubuntu16.04.1-product*%
-%TF.CreationDate,2016-07-28T12:46:50+05:30*%
+%TF.GenerationSoftware,KiCad,Pcbnew,4.0.6-e0-6349~53~ubuntu16.04.1*%
+%TF.CreationDate,2017-05-16T14:29:19+05:30*%
 %TF.ProjectId,MAP4,4D4150342E6B696361645F7063620000,1*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 4.1.0-alpha+201607271302+6994~46~ubuntu16.04.1-product) date Thu Jul 28 12:46:50 2016*
+G04 Created by KiCad (PCBNEW 4.0.6-e0-6349~53~ubuntu16.04.1) date Tue May 16 14:29:19 2017*
 %MOMM*%
 %LPD*%
 G01*

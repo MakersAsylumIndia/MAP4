@@ -26,7 +26,7 @@ rev1 renders
 
 ![MAP4](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_02.png)
 
-rev2 renders
+rev5 renders
 ![MAP4 rev2](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_03.png)
 
 ![MAP4 rev2](https://github.com/MakersAsylumIndia/MAP4/blob/master/kicad/images/map4_04.png)
