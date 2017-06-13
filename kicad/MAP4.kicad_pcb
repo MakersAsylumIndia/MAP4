@@ -1,9 +1,9 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.6-e0-6349~53~ubuntu16.04.1)
 
   (general
-    (links 0)
+    (links 17)
     (no_connects 0)
-    (area 111.650001 71.26989 206.380001 126.7)
+    (area 124.974637 71.588459 174.973189 120.625001)
     (thickness 1.6)
     (drawings 66)
     (tracks 64)
@@ -179,7 +179,7 @@
       (net 3 /LED_red))
     (pad 1 thru_hole circle (at -4.064 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask B.SilkS)
       (net 2 /GND))
-    (model ${KIPRJMOD}/3d_modules/resistor_7_62mm.wrl
+    (model resistor_7_62mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -211,7 +211,7 @@
       (net 5 /LED_blu))
     (pad 1 thru_hole circle (at -4.064 0 120) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask B.SilkS)
       (net 2 /GND))
-    (model ${KIPRJMOD}/3d_modules/resistor_7_62mm.wrl
+    (model resistor_7_62mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -243,7 +243,7 @@
       (net 4 /LED_grn))
     (pad 1 thru_hole circle (at -4.064 0 60) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask B.SilkS)
       (net 2 /GND))
-    (model ${KIPRJMOD}/3d_modules/resistor_7_62mm.wrl
+    (model resistor_7_62mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

@@ -1,0 +1,6 @@
+OD x ID x Height
+
+Size 6000 = 26x10x8
+Size 608 = 22x8x7
+Size 6006 = 55x30x13
+
