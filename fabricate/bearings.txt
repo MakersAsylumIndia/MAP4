@@ -1,3 +1,8 @@
+spinner_608 = single 608 bearing for MAP4
+spinner_6000 = single 6000 bearing for MAP4
+spinner_6006 = single 6006 bearing for MAP4
+spinner_map4 = single 608 bearing with three MAP4 badges
+
 OD x ID x Height
 
 Size 6000 = 26x10x8
