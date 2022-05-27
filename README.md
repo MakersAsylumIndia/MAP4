@@ -1,5 +1,6 @@
 # MAP4
-a really easy, learn to solder Maker's Asylum Badge
+a really easy, "learn to solder" Maker's Asylum Badge
+consisting of three LED's and a battery
 
 **Maker's Asylum Project #4**
 
