@@ -1,0 +1,159 @@
+(footprint "cr2032_01"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "BT1"
+		(at 0 -2.1 0)
+		(layer "F.SilkS")
+		(uuid "2cc10568-7e00-461e-9d09-c607b78a86ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BATT_HOLDER"
+		(at 0 1.5 0)
+		(layer "F.Fab")
+		(uuid "6fb833f8-7553-4b9c-8f34-00be01bf3ce5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19698e4c-e086-4233-b8ce-132307ddc1c1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "868e34b1-a51d-481a-956a-a422c9dbcb98")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.8 10.4)
+		(end -3.8 13.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ce707af4-0abb-4a98-8340-bca649fc4a53")
+	)
+	(fp_line
+		(start -3.8 13.4)
+		(end 3.8 13.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fc9d37c4-dce2-4aa8-8053-ad5917827f9c")
+	)
+	(fp_line
+		(start -3.5 -10.5)
+		(end 3.5 -10.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e4911c35-a98a-4e14-8d4c-58392ac1f3eb")
+	)
+	(fp_line
+		(start 3.8 13.4)
+		(end 3.8 10.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d8a1a1b6-8126-42ac-b5f6-9b4e9f9d8db0")
+	)
+	(fp_arc
+		(start -3.8 10.4)
+		(mid -11.071359 -0.158129)
+		(end -3.50143 -10.504284)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a52576dd-ca5b-45be-90ef-7da987cbcb3e")
+	)
+	(fp_arc
+		(start 3.5 -10.5)
+		(mid 11.066843 -0.158065)
+		(end 3.79845 10.395758)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6c11d96f-96e3-4f86-9eb5-4fa74bca9fbc")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -13)
+		(size 2.8 2.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d8b6e6e9-6863-4475-826c-14597b8f0eae")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -8.1)
+		(size 2.8 2.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b94c0be9-0a7c-4b67-8bc1-f7221afadd55")
+	)
+	(pad "2" thru_hole circle
+		(at 0 11.8)
+		(size 2.8 2.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "008b5175-7e69-4365-9b0d-2528dadb9cb8")
+	)
+	(pad "2" thru_hole circle
+		(at 0 14)
+		(size 2.8 2.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "42151a3c-1b7c-46d4-b760-c4fda6710b92")
+	)
+	(embedded_fonts no)
+	(model "CR2032_HOR_HOLD.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

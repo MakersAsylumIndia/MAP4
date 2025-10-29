@@ -1,0 +1,242 @@
+(footprint "LED-5MM"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "LED 5mm - Lead pitch 100mil (2,54mm)")
+	(tags "LED led 5mm 5MM 100mil 2,54mm")
+	(property "Reference" "REF**"
+		(at -0.008975 1.75 180)
+		(layer "F.SilkS")
+		(uuid "98570c5b-fc77-4525-b1e6-4a036329b57d")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Grn"
+		(at 0.316987 -1.549038 0)
+		(layer "F.SilkS")
+		(uuid "dc53d171-8d07-41c5-9f31-682ae26dd2bf")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "650a6373-d101-4b92-b944-5ad98b3705e3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95ea85f7-4c8a-40d4-994e-0cb7ac6ad41b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field5" "LED SS 5MM 625NM RED DIFF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "736172c3-6ad4-4a1d-b13b-149bb211ffea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field6" "2V, 10mA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "108658db-2085-4598-be21-b69841bc0593")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field7" "Round with Domed Top, 5mm, T-1 3/4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "097a76bb-0fc2-42e4-a956-7f331a0a6dc1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field8" "Kingbright Corp"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5421895e-a871-4192-86c6-8e2182e71467")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field9" "WP7113ID"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f84b253-9353-48de-96ef-00e86af13f98")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field10" "Digikey"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23ac06a8-4580-4078-8769-6a974d6433fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field11" "754-1264-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56121c36-8e5f-48f5-8ffb-c4794923a1bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field12" "http://www.digikey.com/product-detail/en/WP7113ID/754-1264-ND/1747663"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4d09877b-2c1f-474f-b1eb-cf5a1c02792f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.27 1.27)
+		(end -1.27 5.334)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "18c8bcca-a470-4329-a43a-83ab2cc99ad1")
+	)
+	(fp_line
+		(start 1.27 1.27)
+		(end 1.27 2.794)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "67a96f92-d6ce-401e-8624-e391a0690a91")
+	)
+	(fp_line
+		(start 2.25 -1.5)
+		(end 2.25 -0.39)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "099fce49-b2ee-456f-930f-51f838da800c")
+	)
+	(fp_line
+		(start 2.25 0.39)
+		(end 2.25 1.5)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "d34c90e4-428f-48ae-975b-4071f01f0569")
+	)
+	(fp_arc
+		(start 2.25 1.5)
+		(mid -2.704163 0.000469)
+		(end 2.24948 -1.50078)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "B.SilkS")
+		(uuid "d73cdf0e-b247-4b9f-b9bd-cf31cad745f3")
+	)
+	(pad "1" thru_hole circle
+		(at -1.27 0)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(clearance 0.1)
+		(uuid "531933e7-85f7-4dae-bbde-8464910acb37")
+	)
+	(pad "2" thru_hole circle
+		(at 1.27 0)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(clearance 0.1)
+		(uuid "63d33ae0-79ab-4bea-ae9e-3a4ed8097dea")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d_modules/LED_5mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

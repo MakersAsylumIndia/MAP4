@@ -1,0 +1,64 @@
+(footprint "MTG_3mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "P2"
+		(at 0 1.27 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "eadd65c1-6c63-4f67-953f-9256a76af7b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Pin"
+		(at 0 -1.27 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4f556428-58e6-4531-b44f-33fc820eb1b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b5ff78b-29c7-4599-9e03-2b7bdd1cb07c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bebdf196-e295-41b2-810a-ad330cef7e19")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 6.096 6.096)
+		(drill 3.048)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f374e3b4-0694-449b-959b-f68024b493c3")
+	)
+	(embedded_fonts no)
+)

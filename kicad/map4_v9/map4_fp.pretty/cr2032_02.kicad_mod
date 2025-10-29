@@ -1,0 +1,296 @@
+(footprint "cr2032_02"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 9 0)
+		(layer "F.SilkS")
+		(uuid "21251767-c93c-400c-a18c-5745d04e58fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BATT_HOLDER"
+		(at 0 7 0)
+		(layer "F.Fab")
+		(uuid "b696f0b6-de5b-417e-84f4-c75c3278e5a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "09571694-ffd0-4af3-a7e8-ee899c54887f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "07e40256-e658-4c27-b753-c22a3406ffc5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Field4" "HOLDER BATTERY COIN 20MM DIA THM"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ca96cdc-f429-416c-b85b-5ed68135e740")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field5" "HOLDER BATTERY COIN 20MM DIA THM"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d2a27c7-735a-4092-b722-887ff10eb4cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field6" "Coin Cell, Retainer"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5db4daea-b0c3-4c28-8c62-5e7c2af79bce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field7" "Coin, 20.0mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de30cd1c-9c6b-4772-804a-5d4d24d0252b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field8" "Keystone Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1decaa3b-0b6f-4c5b-bddc-9b5abca32188")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field9" "3003"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60955994-a0ad-43e4-bebf-9b6ab2c0eab8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field10" "Digikey"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4d4137a-92e2-4d17-a908-6d8fa87f83e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field11" "3003K-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13f40b21-2c8d-4089-aba5-9a254e2014df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field12" "http://www.digikey.com/scripts/DkSearch/dksus.dll?x=0&y=0&lang=en&KeyWords=3003K-ND&cur=USD"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a606e96-4516-4516-93cd-7342d4b125df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 3.8 13.4)
+		(end 3.8 10.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "25d4759c-9b27-45c4-a12b-026b258c8f79")
+	)
+	(fp_line
+		(start 1.4986 13.4)
+		(end 3.8 13.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "573cf559-1ef3-4bbc-a649-e12a258295d5")
+	)
+	(fp_line
+		(start -3.5 -10.5)
+		(end 3.5 -10.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e2c9d96-8b26-4f4b-9650-11b62b3e72e6")
+	)
+	(fp_line
+		(start -3.8 13.4)
+		(end -1.4986 13.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49333dec-fcc0-49fc-a01e-e847634f7e95")
+	)
+	(fp_line
+		(start -3.8 10.4)
+		(end -3.8 13.4)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a2453ea4-a081-4269-b0b2-c0c87ce1fb62")
+	)
+	(fp_arc
+		(start 3.5 -10.5)
+		(mid 11.066843 -0.158065)
+		(end 3.79845 10.395758)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c633fe44-044b-48ca-ad08-d9a93ba21b8b")
+	)
+	(fp_arc
+		(start -3.8 10.4)
+		(mid -11.071359 -0.158129)
+		(end -3.50143 -10.504284)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7bd5923e-e035-4a93-97d3-382b62d4d9b3")
+	)
+	(pad "1" thru_hole circle
+		(at 0 11.8 180)
+		(size 2.8 2.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(clearance 0.1)
+		(uuid "65695cc6-e80b-461d-9815-ed44d47a3ae9")
+	)
+	(pad "1" thru_hole circle
+		(at 0 14 180)
+		(size 2.8 2.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(clearance 0.1)
+		(uuid "737d49f3-8fa3-4345-b50e-740f99ab0d3e")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -13 180)
+		(size 2.8 2.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(clearance 0.1)
+		(uuid "a3e19a00-42d1-4484-acb6-0611ed53a176")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -8.1 180)
+		(size 2.8 2.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(clearance 0.1)
+		(uuid "d5aea0bd-456f-4d90-9345-6d3b744c1dec")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d_modules/CR2032_HOR_HOLD.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
