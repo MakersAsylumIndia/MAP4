@@ -1,4 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "map7_fp") (type "KiCad") (uri "${KIPRJMOD}/map7_fp.pretty") (options "") (descr ""))
-)

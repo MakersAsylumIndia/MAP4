@@ -1,0 +1,11 @@
+Reference, Value, Footprint, Datasheet, Field4, Field5, Field6, Field7, Field8, Field9, Field10, Field11, manf#
+D1,LED Red,map3_fp:LED-5MM,
+D2,LED Grn,map3_fp:LED-5MM,
+D3,LED Blu,map3_fp:LED-5MM,
+BT1,BATT_HOLDER,map3_fp:9V_clip_968,,HOLDER BATTERY COIN 20MM DIA THM,Coin Cell, Retainer,Coin, 20.0mm,Keystone Electronics,3003,Digikey,3003K-ND,http://www.digikey.com/scripts/DkSearch/dksus.dll?x=0&y=0&lang=en&KeyWords=3003K-ND&cur=USD,
+R1,10E,map3_fp:Resistor_Horizontal_RM10mm,,,,,,,,,,Value
+R2,10E,map3_fp:Resistor_Horizontal_RM10mm,,,,,,,,,,Value
+R3,10E,map3_fp:Resistor_Horizontal_RM10mm,,,,,,,,,,Value
+LOGO1,OPEN_HARDWARE_1,,
+P1,Logo_MA,,
+P2,Pin,,

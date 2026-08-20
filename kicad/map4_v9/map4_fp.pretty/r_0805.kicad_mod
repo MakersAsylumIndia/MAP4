@@ -1,0 +1,181 @@
+(footprint "r_0805"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMT capacitor, 0805")
+	(property "Reference" "REF**"
+		(at -1.951159 -0.017798 90)
+		(layer "F.SilkS")
+		(uuid "74b28d00-9b3a-4798-b644-758eb420f837")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "10E"
+		(at 0 1.7145 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5ce5d0f2-3424-4cec-838f-4aecf8fa8f0f")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1143)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "684c0bc1-6a63-47ce-9251-2c1670e69e1b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "4e04094f-f83e-4750-aa71-1e2068f1c32d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "manf#" "Value"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b523ac2-12d4-4b11-943f-9969ae8ce0a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 2.540001 -1.27)
+		(end -2.54 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72a37c2c-c313-4a8e-b30e-0b0f9a1e13f8")
+	)
+	(fp_line
+		(start 2.54 1.27)
+		(end 2.540001 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "30926b0c-9451-4b11-a165-a40e34b4ce5e")
+	)
+	(fp_line
+		(start 0.4064 0.7874)
+		(end -0.4064 0.7874)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "083679f8-51eb-4749-b090-4884fe7a6ed8")
+	)
+	(fp_line
+		(start -0.4064 -0.7874)
+		(end 0.4064 -0.7874)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "68ba6eb8-e745-4306-9e25-bccd855c1c7b")
+	)
+	(fp_line
+		(start -2.54 -1.27)
+		(end -2.540001 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "46275a32-07a3-4092-901f-21662db606ac")
+	)
+	(fp_line
+		(start -2.540001 1.27)
+		(end 2.54 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90eab629-60cf-4141-9e2b-469b38606ab5")
+	)
+	(pad "1" thru_hole circle
+		(at -4.064 0 180)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(clearance 0.1)
+		(uuid "26b9d983-447d-43d6-bd61-ca4d6fffc982")
+	)
+	(pad "1" smd roundrect
+		(at -0.95 0 180)
+		(size 1 1.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(solder_mask_margin 0.05)
+		(clearance 0.05)
+		(uuid "30c71df8-fd89-442d-9c12-f90a432b8053")
+	)
+	(pad "2" smd roundrect
+		(at 0.95 0 180)
+		(size 1 1.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1)
+		(solder_mask_margin 0.05)
+		(clearance 0.05)
+		(uuid "ed84b108-01f4-47db-bc9e-e83c5ba675b8")
+	)
+	(pad "2" thru_hole circle
+		(at 4.064 0 180)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(clearance 0.1)
+		(uuid "451e2015-b265-4cee-97a9-b9bb0f06d560")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d_modules/resistor_7_62mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
