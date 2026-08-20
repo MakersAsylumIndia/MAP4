@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name map4_fp)(type KiCad)(uri "$(KIPRJMOD)/map4_fp.pretty")(options "")(descr ""))
+)

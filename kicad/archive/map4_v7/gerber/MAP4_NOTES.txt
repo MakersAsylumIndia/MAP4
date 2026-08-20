@@ -1,0 +1,31 @@
+1. Please place ETOK mark on BOTTOM LAYER in provided BOX.
+2. SOLDER MASK COLOR : BLACK
+3. LEGEND COLOR : YELLOW
+
+OTHER REQUIREMENTS AS BELOW :
+
+Layers 2 L
+PCB Thickness(mm) 1.60 MM
+PCB Dimensions 49.85 x 48.89 MM
+PCBs/Panel 0
+Top Solder Mask Black
+Top Legend Yellow
+TG Std. Tg ( 130-140 °)
+Via Fill No
+Carbon contacts No Carbon Contacts
+Edge Connector 0.00
+Blind & Buried Via NO
+Electrical Testing Yes
+Material FR4
+Surface Finish HAL (Sn-Pb)
+Start Cu Thickness 17.50
+I/L Cu thickness 0.00
+Finish Cu Thickness 35.00
+Bottom Solder Mask Black
+Bottom Legend Yellow
+Layer Build-Up Standard
+Peel Off No Peel Off
+UL Logo No
+Edge Connector Au Thickness
+(μm) 0.00
+Impedance Control No
